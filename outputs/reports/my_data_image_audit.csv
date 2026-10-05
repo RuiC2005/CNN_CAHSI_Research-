@@ -1,0 +1,6 @@
+image_path,width,height,mode,channels,suffix
+/Users/ruicamou05/traffic_sign_audit/data/my_data/images/img_001.jpg,3024,4032,RGB,3,.jpg
+/Users/ruicamou05/traffic_sign_audit/data/my_data/images/img_003.jpg,3024,4032,RGB,3,.jpg
+/Users/ruicamou05/traffic_sign_audit/data/my_data/images/img_002.jpg,3024,4032,RGB,3,.jpg
+/Users/ruicamou05/traffic_sign_audit/data/my_data/images/img_005.jpg,3024,4032,RGB,3,.jpg
+/Users/ruicamou05/traffic_sign_audit/data/my_data/images/img_004.jpg,3024,4032,RGB,3,.jpg
